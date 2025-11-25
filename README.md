@@ -8,5 +8,5 @@ This big project is divided into 8 parts:
 5. EDA with data visualization
 6. Creating a dashboard with dash
 7. Interactive visual analytics using Folium
-8. Machine Learning pipeline to predict if the first stage will land
+8. Machine Learning pipeline to predict if the first stage will land <br>
 At the end, there's a presentation in which it fully details the tools, processes and findings in each of those section.
